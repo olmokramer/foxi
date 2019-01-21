@@ -1,0 +1,9 @@
+# equations proven in section 1.2
+
+TRUE (x / x) * (x / x) = (x / x)
+
+TRUE (x / x) * (1 - x / x) = 0
+
+TRUE (1 - x / x) * (1 - x / x) = (1 - x / x)
+
+TRUE (1 - x / x) * (x / x) = 0

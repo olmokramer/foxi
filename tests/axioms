@@ -1,0 +1,32 @@
+# ring axioms
+
+TRUE x + (y + z) = (x + y) + z
+
+TRUE x + y = y + x
+
+TRUE 0 + x = x
+
+TRUE x + (0 - x) = 0
+
+TRUE x * (y * z) = (x * y) * z
+
+TRUE 1 * x = x
+
+TRUE (x + y) * z = x * z + y * z
+
+TRUE x * (y + z) = x * y + x * z
+
+# commutatity axiom
+
+TRUE x * y = y * x
+
+# von Neumann regularity
+# cannot be tested yet, as it is existential
+
+# TRUE E a x = x * a * x
+
+# meadow axioms
+
+TRUE x = 1 / (1 / x)
+
+TRUE x = x / x * x
